@@ -26,6 +26,9 @@ You will already know:
 1. Clone the repo to your local computer, or copy the .ino file.
 2. Connect the sensors to your ESP8266 board
 3. Set the WiFi network name and password in the code (around lines 18 & 19)
+4. Connect the sensors to 3.3V and Ground. The SCL pin from both sensors to pin D1 on the NodeMCU, SDA to pin D2, or the corresponding SCL & SDA pins for your device.
+
+Debug and telemetry data are also output to the serial port to allow testing without the client device.
 
 ## Tested On
 
