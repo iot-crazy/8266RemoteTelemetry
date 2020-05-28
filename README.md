@@ -10,7 +10,7 @@ These instructions will get you a copy of the project up and running on your loc
 ### Prerequisites
 
 You will need:
-1. An ESP9266 board with an available I2C connection
+1. An ESP8266 board with an available I2C connection
 2. GY-21 sensor
 3. BME/BMP280 sensor
 4. Connecting wires
